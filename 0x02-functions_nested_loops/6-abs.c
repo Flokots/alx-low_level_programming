@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_abs - Check Holberton
+ *_abs - Check main
  * @r: An integre input
  * Description: This function returns absolute value of a number
  * Return: Absolute value of number r
