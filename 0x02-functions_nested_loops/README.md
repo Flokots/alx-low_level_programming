@@ -21,3 +21,5 @@ Write a function that computes the absolute value of an integer.
 Write a function that prints the last digit of a number
 ### 8. I'm federal agen Jack Bauer, and today is the longest day of my life
 Write a function that prints every minute of teh day of Jack Bauer, starting from 00:00 to 23:59
+### 9. Learn your times table
+Write a function that prints the 9 times table, starting with 0
