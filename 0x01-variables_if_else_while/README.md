@@ -41,3 +41,11 @@ Write a program that prints all possible different combinations of three digits.
 * `012`, `120`, `102`, `021`, `201`, `210` are considered the same combination of the three digits `0`, `1` and `2`
 * Print only the smallest combination of three digits
 * Numbers should be printed in ascending order, with three digits
+### 12. Software is eating the world
+Write a program that prints all possible combinations of two two-digit numbers. 
+* The numbers should range from `0` to `99`
+* The two numbers should be separated by a space
+* All numbers should be printed with two digits. `1` should be printed as `01`
+* The combination of numbers must be separated by comma, followed by a space
+* The combinations of numbers should be printed in ascending order
+* `00 01` and `01 00` are considered as the same combination of the numbers `0` and `1`
