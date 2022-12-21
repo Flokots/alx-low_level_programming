@@ -21,3 +21,8 @@ Write a C program that prints exactly `"Programming is like building a multiling
 * Use the function `puts`
 * You are not allowed to use `printf`
 * Your program should end with the value `0`
+### 5. Hello, printf
+Write a C program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line. 
+* Use the function `puts`
+* You are not allowed to use `printf`
+* Your program should end with the value `0`
