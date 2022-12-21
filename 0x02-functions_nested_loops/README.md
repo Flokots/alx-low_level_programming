@@ -31,4 +31,7 @@ Write a function that prints all natural numbers from `n` to `98`, followed by a
 Write a function that prints the `n` times table, starting with 0. 
 ### 13. Nature made the natural numbers; All else is the work of women
 If we list all the natural numbers below `10` that are multiples of `3` or `5`, we get `3`, `5`, `6` and `9`. The sum of these multiples is `23`. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+### 14. In computer class, the first assignmet was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. 
+Write a program that prints the first 50 Fibonacci numbers, starting with `1` adn `2`, followed by a new line. 
+
 
