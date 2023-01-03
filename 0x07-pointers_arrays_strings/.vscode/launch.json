@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wintersunbirdie/Desktop/Projects/alx/alx-low_level_programming/0x07-pointers_arrays_strings",
+      "program": "/Users/wintersunbirdie/Desktop/Projects/alx/alx-low_level_programming/0x07-pointers_arrays_strings/build/Debug/outDebug"
+    }
+  ]
+}
